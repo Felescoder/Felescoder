@@ -5,12 +5,18 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- # Halo, Saya Felescoder! 👋
+
+Saya adalah seorang pelajar dan pengembang perangkat lunak (software developer) yang sedang fokus mendalami pemrograman dan pengelolaan basis data.
+
+## 🛠️ Teknologi & Skill
+* **Bahasa Pemrograman:** Java
+* **Database Management:** MySQL / MariaDB (XAMPP)
+* **Web Development:** HTML, CSS
+* **Tools:** NetBeans IDE, Git & GitHub
+
+## 📂 Proyek yang Sedang Dikembangkan
+* **CRUD_Sederhana:** Aplikasi manajemen database berbasis Java desktop dengan arsitektur proyek Maven.
+
+---
+*“Simplicity is the soul of efficiency.”*

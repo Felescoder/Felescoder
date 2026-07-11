@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Felescoder/Felescoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - # Halo, Saya Felescoder! 👋
 
 Saya adalah seorang pelajar dan pengembang perangkat lunak (software developer) yang sedang fokus mendalami pemrograman dan pengelolaan basis data.
